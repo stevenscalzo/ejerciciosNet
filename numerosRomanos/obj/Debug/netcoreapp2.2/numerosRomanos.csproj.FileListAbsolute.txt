@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\numerosRomanos\obj\Debug\netcoreapp2.2\numerosRomanos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\numerosRomanos\obj\Debug\netcoreapp2.2\numerosRomanos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\numerosRomanos\obj\Debug\netcoreapp2.2\numerosRomanos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\numerosRomanos\obj\Debug\netcoreapp2.2\numerosRomanos.AssemblyInfo.cs
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\numerosRomanos\bin\Debug\netcoreapp2.2\numerosRomanos.deps.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\numerosRomanos\bin\Debug\netcoreapp2.2\numerosRomanos.runtimeconfig.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\numerosRomanos\bin\Debug\netcoreapp2.2\numerosRomanos.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\numerosRomanos\bin\Debug\netcoreapp2.2\numerosRomanos.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\numerosRomanos\bin\Debug\netcoreapp2.2\numerosRomanos.pdb
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\numerosRomanos\obj\Debug\netcoreapp2.2\numerosRomanos.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\numerosRomanos\obj\Debug\netcoreapp2.2\numerosRomanos.pdb

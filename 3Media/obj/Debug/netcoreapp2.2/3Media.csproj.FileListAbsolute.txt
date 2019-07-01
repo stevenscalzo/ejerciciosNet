@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\3Media\obj\Debug\netcoreapp2.2\3Media.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\3Media\obj\Debug\netcoreapp2.2\3Media.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\3Media\obj\Debug\netcoreapp2.2\3Media.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\3Media\obj\Debug\netcoreapp2.2\3Media.AssemblyInfo.cs
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\3Media\bin\Debug\netcoreapp2.2\3Media.deps.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\3Media\bin\Debug\netcoreapp2.2\3Media.runtimeconfig.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\3Media\bin\Debug\netcoreapp2.2\3Media.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\3Media\bin\Debug\netcoreapp2.2\3Media.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\3Media\bin\Debug\netcoreapp2.2\3Media.pdb
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\3Media\obj\Debug\netcoreapp2.2\3Media.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\3Media\obj\Debug\netcoreapp2.2\3Media.pdb

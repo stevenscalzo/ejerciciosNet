@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\1HelloWorld\bin\Debug\netcoreapp2.2\1HelloWorld.deps.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\1HelloWorld\bin\Debug\netcoreapp2.2\1HelloWorld.runtimeconfig.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\1HelloWorld\bin\Debug\netcoreapp2.2\1HelloWorld.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\1HelloWorld\bin\Debug\netcoreapp2.2\1HelloWorld.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\1HelloWorld\bin\Debug\netcoreapp2.2\1HelloWorld.pdb
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\1HelloWorld\obj\Debug\netcoreapp2.2\1HelloWorld.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\1HelloWorld\obj\Debug\netcoreapp2.2\1HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\1HelloWorld\obj\Debug\netcoreapp2.2\1HelloWorld.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\1HelloWorld\obj\Debug\netcoreapp2.2\1HelloWorld.AssemblyInfo.cs
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\1HelloWorld\obj\Debug\netcoreapp2.2\1HelloWorld.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\1HelloWorld\obj\Debug\netcoreapp2.2\1HelloWorld.pdb
