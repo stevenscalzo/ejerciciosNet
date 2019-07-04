@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\tickets\bin\Debug\netcoreapp2.2\tickets.deps.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\tickets\bin\Debug\netcoreapp2.2\tickets.runtimeconfig.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\tickets\bin\Debug\netcoreapp2.2\tickets.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\tickets\bin\Debug\netcoreapp2.2\tickets.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\tickets\bin\Debug\netcoreapp2.2\tickets.pdb
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\tickets\obj\Debug\netcoreapp2.2\tickets.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\tickets\obj\Debug\netcoreapp2.2\tickets.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\tickets\obj\Debug\netcoreapp2.2\tickets.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\tickets\obj\Debug\netcoreapp2.2\tickets.AssemblyInfo.cs
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\tickets\obj\Debug\netcoreapp2.2\tickets.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\tickets\obj\Debug\netcoreapp2.2\tickets.pdb

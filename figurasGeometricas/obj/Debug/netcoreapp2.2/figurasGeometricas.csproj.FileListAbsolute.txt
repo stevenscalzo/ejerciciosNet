@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\figurasGeometricas\obj\Debug\netcoreapp2.2\figurasGeometricas.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\figurasGeometricas\obj\Debug\netcoreapp2.2\figurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\figurasGeometricas\obj\Debug\netcoreapp2.2\figurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\figurasGeometricas\obj\Debug\netcoreapp2.2\figurasGeometricas.AssemblyInfo.cs
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\figurasGeometricas\bin\Debug\netcoreapp2.2\figurasGeometricas.deps.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\figurasGeometricas\bin\Debug\netcoreapp2.2\figurasGeometricas.runtimeconfig.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\figurasGeometricas\bin\Debug\netcoreapp2.2\figurasGeometricas.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\figurasGeometricas\bin\Debug\netcoreapp2.2\figurasGeometricas.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\figurasGeometricas\bin\Debug\netcoreapp2.2\figurasGeometricas.pdb
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\figurasGeometricas\obj\Debug\netcoreapp2.2\figurasGeometricas.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\figurasGeometricas\obj\Debug\netcoreapp2.2\figurasGeometricas.pdb

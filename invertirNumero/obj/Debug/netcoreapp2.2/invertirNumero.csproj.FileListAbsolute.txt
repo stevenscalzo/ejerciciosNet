@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\invertirNumero\obj\Debug\netcoreapp2.2\invertirNumero.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\invertirNumero\obj\Debug\netcoreapp2.2\invertirNumero.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\invertirNumero\obj\Debug\netcoreapp2.2\invertirNumero.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\invertirNumero\obj\Debug\netcoreapp2.2\invertirNumero.AssemblyInfo.cs
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\invertirNumero\bin\Debug\netcoreapp2.2\invertirNumero.deps.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\invertirNumero\bin\Debug\netcoreapp2.2\invertirNumero.runtimeconfig.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\invertirNumero\bin\Debug\netcoreapp2.2\invertirNumero.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\invertirNumero\bin\Debug\netcoreapp2.2\invertirNumero.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\invertirNumero\bin\Debug\netcoreapp2.2\invertirNumero.pdb
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\invertirNumero\obj\Debug\netcoreapp2.2\invertirNumero.dll
+C:\Users\formacion.GTT\Documents\Clases\ejerciciosNet\invertirNumero\obj\Debug\netcoreapp2.2\invertirNumero.pdb
